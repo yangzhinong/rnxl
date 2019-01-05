@@ -1,0 +1,3 @@
+rootProject.name = 'YznApp'
+
+include ':app'
